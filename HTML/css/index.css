@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-shadow: 5px;
+    color: darkgreen;
+
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+.image {
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.video {
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
